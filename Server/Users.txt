@@ -1,0 +1,6 @@
+{1 login="anton", 1 password="ÈÇİÆÇ"}
+{2 login="kris", 2 password="ÂÛÀÚ"}
+{3 login="mur", 3 password="ÄÜÛ"}
+{4 login="bus", 4 password="ËÜÚ"}
+{5 login="luda", 5 password="ÅÜÍÈ"}
+{6 login="vic", 6 password="ßÀÊ"}
